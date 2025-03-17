@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\C#\\AcunMedyaTravelProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Migrations\\20250313130545_miginit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcunMedyaTravelProject\\Migrations\\20250313130545_miginit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\entities\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\entities\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\enums\\tourcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\enums\\tourcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\views\\shared\\components\\_defaultnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\shared\\components\\_defaultnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,144 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250313130545_miginit.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Migrations\\20250313130545_miginit.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Migrations\\20250313130545_miginit.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Migrations\\20250313130545_miginit.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Migrations\\20250313130545_miginit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:05:46.033Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T16:01:35.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAkAAACbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:51:14.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Admin.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\Admin.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Admin.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:43:21.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Testimonial.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Testimonial.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\Testimonial.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Testimonial.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\Testimonial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:38:43.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SocialMedia.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\SocialMedia.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\SocialMedia.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\SocialMedia.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\SocialMedia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:36:51.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Guide.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Guide.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\Guide.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Guide.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\Guide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:35:17.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Booking.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\Booking.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Booking.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:31:05.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Destination.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Destination.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\Destination.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Destination.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\Destination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:30:07.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Package.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Package.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\Package.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Package.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\Package.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:26:10.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Tour.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Tour.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Entities\\Tour.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Entities\\Tour.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Entities\\Tour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:20:56.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TourCategory.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Enums\\TourCategory.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Enums\\TourCategory.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Enums\\TourCategory.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Enums\\TourCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:19:34.31Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T15:28:43.72Z",
               "EditorCaption": ""
             }
           ]
