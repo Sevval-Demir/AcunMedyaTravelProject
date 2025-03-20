@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\views\\shared\\components\\_defaultnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\shared\\components\\_defaultnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\views\\shared\\components\\_defaultdestinationcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\shared\\components\\_defaultdestinationcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\views\\shared\\components\\_destinationcitycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\shared\\components\\_destinationcitycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\views\\shared\\components\\_destinationcountrycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\shared\\components\\_destinationcountrycomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultNavbarComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T16:01:35.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T15:28:43.72Z",
+              "WhenOpened": "2025-03-20T13:36:49.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCountryComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCountryComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCountryComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCountryComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:31:26.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCityComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCityComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCityComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DestinationCityComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAqwAcBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:31:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultDestinationComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultDestinationComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultDestinationComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Shared\\Components\\_DefaultDestinationComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:24:33.775Z",
               "EditorCaption": ""
             }
           ]

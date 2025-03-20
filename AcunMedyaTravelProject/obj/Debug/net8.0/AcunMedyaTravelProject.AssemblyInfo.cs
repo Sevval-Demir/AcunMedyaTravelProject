@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcunMedyaTravelProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6af4b81eef93cda3a4a9152a1907f58cd55b9df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a6c909a2937f99a1f23d4eaca2e6e52d9fe63b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcunMedyaTravelProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcunMedyaTravelProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
