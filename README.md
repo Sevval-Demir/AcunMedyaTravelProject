@@ -82,36 +82,36 @@ Turizm sektörü için dinamik, yönetilebilir ve kullanıcı dostu bir rezervas
 ---
 ### 🔹 Hakkında (About)
 
-![Abouts](Screenshot 2025-05-10 233841.png)
+![Abouts](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233841.png)
 
 ---
 
 ### 🔹 Ülke Yönetimi
 
-![Countries](Screenshot 2025-05-10 233900.png)
+![Countries](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233900.png)
 
 ---
 
 ### 🔹 Şehir Yönetimi
 
-![Destinations](Screenshot 2025-05-10 233907.png)
+![Destinations](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233907.png)
 
 ---
 
 ### 🔹 Paket Yönetimi
 
-![Packages](Screenshot 2025-05-10 233911.png)
+![Packages](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20003005.png)
 
 ---
 
 ### 🔹 Turlar
 
-![Tours](Screenshot 2025-05-10 233923.png)
+![Tours](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20003013.png)
 
 
-### 🔹 Yorumlar (Testimonials)
+### 🔹 Yorumlar 
 
-![Testimonials](Screenshot 2025-05-10 233918.png)
+![Testimonials](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20003019.png)
 
 ---
 ## 🛠 Kullanılan Teknolojiler
