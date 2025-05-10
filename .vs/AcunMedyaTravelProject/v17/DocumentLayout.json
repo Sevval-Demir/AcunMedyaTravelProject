@@ -46,8 +46,7 @@
               "RelativeToolTip": "AcunMedyaTravelProject\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:29:13.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T17:29:13.291Z"
             },
             {
               "$type": "Document",
@@ -55,12 +54,11 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Login\\Index.cshtml*",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Login\\Index.cshtml*",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T17:21:39.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T17:21:39.564Z"
             },
             {
               "$type": "Document",
@@ -68,9 +66,9 @@
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Controllers\\LoginController.cs*",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Controllers\\LoginController.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABkAAAAAAAAAA==",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T17:20:57.212Z",
               "EditorCaption": ""
