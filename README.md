@@ -26,12 +26,12 @@ Turizm sektörü için dinamik, yönetilebilir ve kullanıcı dostu bir rezervas
  
 ### 🔹 Anasayfa
 
-(Screenshot 2025-05-10 233710.png)
-(Screenshot 2025-05-10 233723.png)
-(Screenshot 2025-05-10 233730.png)
-(Screenshot 2025-05-10 233744.png)
-(Screenshot 2025-05-10 233751.png)
-(Screenshot 2025-05-10 233758.png)
+![Homepage]([Screenshot 2025-05-10 233710.png](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233710.png))
+![Homepage](Screenshot 2025-05-10 233723.png)
+![Homepage](Screenshot 2025-05-10 233730.png)
+![Homepage](Screenshot 2025-05-10 233744.png)
+![Homepage](Screenshot 2025-05-10 233751.png)
+![Homepage](Screenshot 2025-05-10 233758.png)
 
 ---
 
