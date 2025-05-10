@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb14f3a1-f257-4eff-ac68-b2841e71c4a5)# 🌍 AcunMedya Travel Project
+ 🌍 AcunMedya Travel Project
 
 ASP.NET Core MVC ile geliştirilmiş olan **AcunMedya Travel**, bir turizm ajansı için hazırlanmış tam donanımlı bir web projesidir. Ziyaretçiler, turlar ve destinasyonlar hakkında bilgi alabilirken, admin panelinden içerikler dinamik olarak yönetilebilmektedir.
 
