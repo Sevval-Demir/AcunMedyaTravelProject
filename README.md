@@ -42,14 +42,14 @@ Turizm sektörü için dinamik, yönetilebilir ve kullanıcı dostu bir rezervas
 
 ### 🔹 Rezervasyon Formu
 
-![Booking](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233803.png)
+![Booking](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20002636.png))
 
 ---
 
 ### 🔹 Footer ve İletişim
 
-![Footer](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233821.png)
-![Footer](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233826.png)
+![Footer](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20002739.png)
+![Footer](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20002749.png)
 
 ---
 ### 🛠️ Admin Panel
