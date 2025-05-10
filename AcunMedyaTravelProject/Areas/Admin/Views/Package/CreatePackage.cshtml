@@ -1,0 +1,55 @@
+﻿@model AcunMedyaTravelProject.Entities.Package
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    var destinations = ViewBag.Destinations as List<AcunMedyaTravelProject.Entities.Destination>;
+    ViewBag.Title = "Yeni Paket";
+}
+
+<h2>Yeni Tatil Paketi</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Başlık</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Görsel URL</label>
+        <input asp-for="ImageUrl" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Açıklama</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Gün</label>
+        <input asp-for="DayCount" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Kişi</label>
+        <input asp-for="PersonCount" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Otel Adı</label>
+        <input asp-for="HotelName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Otel Yıldızı</label>
+        <input asp-for="HotelStar" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Fiyat</label>
+        <input asp-for="Price" type="number" step="0.01" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Şehir</label>
+        <select asp-for="DestinationId" class="form-control">
+            <option value="">Şehir Seçin</option>
+            @foreach (var item in destinations)
+            {
+                <option value="@item.Id">@item.CityName</option>
+            }
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

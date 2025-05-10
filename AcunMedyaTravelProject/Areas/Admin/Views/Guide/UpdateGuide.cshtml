@@ -1,0 +1,25 @@
+﻿@model AcunMedyaTravelProject.Entities.Guide
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Rehber Güncelle";
+}
+
+<h2>Rehber Güncelle</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label>Ad</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Unvan</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Resim URL</label>
+        <input asp-for="ImageUrl" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>

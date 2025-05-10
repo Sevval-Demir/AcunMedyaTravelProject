@@ -17,7 +17,7 @@ namespace AcunMedyaTravelProject.Controllers
         [HttpPost]
         public IActionResult Index(LoginViewModel model)
         {
-            if (user.Username == "admin" && user.Password == "1234")
+            if (model.Username == "admin" && model.Password == "1234")
             {
                 return RedirectToAction("Index", "Home");
             }

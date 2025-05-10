@@ -1,0 +1,33 @@
+﻿@model AcunMedyaTravelProject.Entities.Booking
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Rezervasyon Sil";
+}
+
+<h2>Silme Onayı</h2>
+
+<div class="alert alert-warning">
+    <strong>Dikkat!</strong> "<strong>@Model.Name</strong>" adlı rezervasyonu silmek üzeresiniz.
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label>Ad</label>
+        <input asp-for="Name" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label>Tarih</label>
+        <input asp-for="Date" class="form-control" readonly />
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-danger">Evet, Sil</button>
+    <a href="/Admin/Booking/Index" class="btn btn-secondary">Vazgeç</a>
+</form>

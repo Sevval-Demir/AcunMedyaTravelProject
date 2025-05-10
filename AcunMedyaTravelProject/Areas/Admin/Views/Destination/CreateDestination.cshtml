@@ -1,0 +1,31 @@
+﻿@model AcunMedyaTravelProject.Entities.Destination
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    var countries = ViewBag.Countries as List<AcunMedyaTravelProject.Entities.Country>;
+    ViewBag.Title = "Yeni Şehir";
+}
+
+<h2>Yeni Şehir Ekle</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Şehir Adı</label>
+        <input asp-for="CityName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Görsel URL</label>
+        <input asp-for="CoverImageUrl" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ülke</label>
+        <select asp-for="CountryId" class="form-control">
+            <option value="">Ülke seçin</option>
+            @foreach (var item in countries)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

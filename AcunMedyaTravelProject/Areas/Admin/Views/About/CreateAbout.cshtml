@@ -1,0 +1,18 @@
+﻿@model AcunMedyaTravelProject.Entities.About
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Yeni About Ekle";
+}
+
+<h2>Yeni About Ekle</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Ad</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

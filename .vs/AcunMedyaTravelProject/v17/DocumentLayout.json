@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\C#\\AcunMedyaTravelProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|c:\\c#\\acunmedyatravelproject\\acunmedyatravelproject\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5BB00CC-0DBD-4C22-B5CC-6F839D601092}|AcunMedyaTravelProject\\AcunMedyaTravelProject.csproj|solutionrelative:acunmedyatravelproject\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,38 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:29:13.291Z"
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T14:17:02.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T17:21:39.564Z"
+              "WhenOpened": "2025-05-10T14:03:58.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "AcunMedyaTravelProject\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AcunMedyaTravelProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\C#\\AcunMedyaTravelProject\\AcunMedyaTravelProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AcunMedyaTravelProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T17:20:57.212Z",
+              "WhenOpened": "2025-05-10T14:03:08.527Z",
               "EditorCaption": ""
             }
           ]

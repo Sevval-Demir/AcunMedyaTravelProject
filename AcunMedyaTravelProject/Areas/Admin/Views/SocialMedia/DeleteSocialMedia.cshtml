@@ -1,0 +1,17 @@
+﻿@model AcunMedyaTravelProject.Entities.SocialMedia
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Sosyal Hesap Sil";
+}
+
+<h2>Silme Onayı</h2>
+
+<div class="alert alert-warning">
+    "@Model.Url" bağlantısını silmek üzeresiniz. Emin misiniz?
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Evet, Sil</button>
+    <a href="/Admin/SocialMedia/Index" class="btn btn-secondary">İptal</a>
+</form>

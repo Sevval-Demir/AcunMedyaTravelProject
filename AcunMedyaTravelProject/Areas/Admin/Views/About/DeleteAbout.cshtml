@@ -1,0 +1,18 @@
+﻿@model AcunMedyaTravelProject.Entities.About
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "About Sil";
+}
+
+<h2>Silme Onayı</h2>
+
+<div class="alert alert-warning">
+    <strong>Dikkat!</strong> Gerçekten "<strong>@Model.Name</strong>" kaydını silmek istiyor musunuz?
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Evet, Sil</button>
+    <a href="/Admin/About/Index" class="btn btn-secondary">Vazgeç</a>
+</form>

@@ -1,0 +1,112 @@
+﻿@model List<AcunMedyaTravelProject.Entities.Booking>
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h1 class="h3 mb-4 text-gray-800">AcunMedya Travel Dashboard</h1>
+
+<div class="row">
+    <!-- Ülke -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-primary shadow h-100 py-2">
+            <div class="card-body">
+                <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Toplam Ülke</div>
+                <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalCountries</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lokasyon -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-success shadow h-100 py-2">
+            <div class="card-body">
+                <div class="text-xs font-weight-bold text-success text-uppercase mb-1">Lokasyonlar</div>
+                <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalDestinations</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tur Paketleri -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-info shadow h-100 py-2">
+            <div class="card-body">
+                <div class="text-xs font-weight-bold text-info text-uppercase mb-1">Tur Paketleri</div>
+                <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalPackages</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rehber -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-warning shadow h-100 py-2">
+            <div class="card-body">
+                <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">Rehber Sayısı</div>
+                <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalGuides</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rezervasyon -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-dark shadow h-100 py-2">
+            <div class="card-body">
+                <div class="text-xs font-weight-bold text-dark text-uppercase mb-1">Rezervasyonlar</div>
+                <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalBookings</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Yorum -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-secondary shadow h-100 py-2">
+            <div class="card-body">
+                <div class="text-xs font-weight-bold text-secondary text-uppercase mb-1">Yorumlar</div>
+                <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalTestimonials</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tur -->
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="card border-left-primary shadow h-100 py-2">
+            <div class="card-body">
+                <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Turlar</div>
+                <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalTours</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Son 5 Rezervasyon -->
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Son 5 Rezervasyon</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered text-center">
+                <thead>
+                    <tr>
+                        <th>Ad Soyad</th>
+                        <th>Email</th>
+                        <th>Telefon</th>
+                        <th>Tarih</th>
+                        <th>Not</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.Email</td>
+                            <td>@item.Phone</td>
+                            <td>@item.Date.ToShortDateString()</td>
+                            <td>@item.Note</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

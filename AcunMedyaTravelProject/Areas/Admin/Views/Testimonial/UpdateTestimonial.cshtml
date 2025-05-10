@@ -1,0 +1,33 @@
+﻿@model AcunMedyaTravelProject.Entities.Testimonial
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Yorum Güncelle";
+}
+
+<h2>Yorum Güncelle</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label>Ad</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ülke</label>
+        <input asp-for="Nation" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Puan</label>
+        <input asp-for="Rate" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Yorum</label>
+        <textarea asp-for="Content" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Resim URL</label>
+        <input asp-for="ImageUrl" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>

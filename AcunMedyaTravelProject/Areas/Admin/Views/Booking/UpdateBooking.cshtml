@@ -1,0 +1,55 @@
+﻿@model AcunMedyaTravelProject.Entities.Booking
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Rezervasyon Güncelle";
+    var packages = ViewBag.Packages as List<AcunMedyaTravelProject.Entities.Package>;
+}
+
+<h2>Rezervasyon Güncelle</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label>Ad</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Telefon</label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Tarih</label>
+        <input asp-for="Date" type="date" class="form-control" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Paket</label>
+        <select asp-for="PackageId" class="form-control">
+            <option value="">Paket seçin</option>
+            @foreach (var item in packages)
+            {
+                <option value="@item.Id" selected="@(item.Id == Model.PackageId)">
+                    @item.Title
+                </option>
+            }
+        </select>
+        <span asp-validation-for="PackageId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Not</label>
+        <textarea asp-for="Note" class="form-control"></textarea>
+        <span asp-validation-for="Note" class="text-danger"></span>
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>

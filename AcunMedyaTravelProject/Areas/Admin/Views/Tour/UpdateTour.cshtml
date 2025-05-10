@@ -1,0 +1,45 @@
+﻿@model AcunMedyaTravelProject.Entities.Tour
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    var categories = ViewBag.TourCategories as Array;
+    ViewBag.Title = "Tur Güncelle";
+}
+
+<h2>Tur Güncelle</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label>Başlık</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Resim URL</label>
+        <input asp-for="ImageUrl" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>İndirim (%)</label>
+        <input asp-for="Discount" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Kategori</label>
+        <select asp-for="TourCategory" class="form-control">
+            @foreach (var item in categories)
+            {
+                <option value="@((int)item)" selected="@(Model.TourCategory == (AcunMedyaTravelProject.Enums.TourCategory)item)">
+                    @item
+                </option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Şehir Sayısı</label>
+        <input asp-for="CityCount" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Tur Mekanı Sayısı</label>
+        <input asp-for="TourPlaceCount" type="number" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>

@@ -1,0 +1,17 @@
+﻿@model AcunMedyaTravelProject.Entities.Testimonial
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewBag.Title = "Yorumu Sil";
+}
+
+<h2>Silme Onayı</h2>
+
+<div class="alert alert-warning">
+    <strong>@Model.Name</strong> adlı kullanıcıdan gelen yorumu silmek üzeresiniz. Emin misiniz?
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Evet, Sil</button>
+    <a href="/Admin/Testimonial/Index" class="btn btn-secondary">İptal</a>
+</form>

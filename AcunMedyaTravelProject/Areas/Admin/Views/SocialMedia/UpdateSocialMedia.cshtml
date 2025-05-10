@@ -1,0 +1,34 @@
+﻿@model AcunMedyaTravelProject.Entities.SocialMedia
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    var guides = ViewBag.Guides as List<AcunMedyaTravelProject.Entities.Guide>;
+    ViewBag.Title = "Sosyal Medya Güncelle";
+}
+
+<h2>Sosyal Medya Hesabı Güncelle</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label>İkon</label>
+        <input asp-for="Icon" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>URL</label>
+        <input asp-for="Url" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Rehber</label>
+        <select asp-for="GuideId" class="form-control">
+            <option value="">Rehber Seçin</option>
+            @foreach (var item in guides)
+            {
+                <option value="@item.Id" selected="@(item.Id == Model.GuideId)">
+                    @item.Name
+                </option>
+            }
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+</form>
