@@ -27,30 +27,30 @@ Turizm sektörü için dinamik, yönetilebilir ve kullanıcı dostu bir rezervas
 ### 🔹 Anasayfa
 
 ![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233710.png)
-![Homepage](Screenshot 2025-05-10 233723.png)
-![Homepage](Screenshot 2025-05-10 233730.png)
-![Homepage](Screenshot 2025-05-10 233744.png)
-![Homepage](Screenshot 2025-05-10 233751.png)
-![Homepage](Screenshot 2025-05-10 233758.png)
+![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233723.png)
+![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233730.png)
+![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233744.png)
+![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233751.png)
+![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233758.png)
 
 ---
 
 ### 🔹 Rehberler
 
-![Guides](Screenshot 2025-05-10 233816.png)
+![Guides](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233816.png)
 
 ---
 
 ### 🔹 Rezervasyon Formu
 
-![Booking](Screenshot 2025-05-10 233803.png)
+![Booking](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233803.png)
 
 ---
 
 ### 🔹 Footer ve İletişim
 
-![Footer](Screenshot 2025-05-10 233821.png)
-![Footer](Screenshot 2025-05-10 233826.png)
+![Footer](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233821.png)
+![Footer](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233826.png)
 
 ---
 ### 🛠️ Admin Panel
@@ -78,7 +78,7 @@ Turizm sektörü için dinamik, yönetilebilir ve kullanıcı dostu bir rezervas
 
 > Genel istatistik kartları ve son 5 rezervasyon görünümü.
 
-![Dashboard](Screenshot 2025-05-10 233834.png)
+![Dashboard](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233834.png)
 
 ---
 ### 🔹 Hakkında (About)
