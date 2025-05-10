@@ -1,4 +1,4 @@
-# 🌍 AcunMedya Travel Project
+![image](https://github.com/user-attachments/assets/cb14f3a1-f257-4eff-ac68-b2841e71c4a5)# 🌍 AcunMedya Travel Project
 
 ASP.NET Core MVC ile geliştirilmiş olan **AcunMedya Travel**, bir turizm ajansı için hazırlanmış tam donanımlı bir web projesidir. Ziyaretçiler, turlar ve destinasyonlar hakkında bilgi alabilirken, admin panelinden içerikler dinamik olarak yönetilebilmektedir.
 
@@ -30,7 +30,8 @@ Turizm sektörü için dinamik, yönetilebilir ve kullanıcı dostu bir rezervas
 ![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233723.png)
 ![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233730.png)
 ![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233744.png)
-![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20001134.png))
+![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20001134.png)
+![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-11%20001516.png)
 ![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233751.png)
 ![Homepage](https://github.com/Sevval-Demir/AcunMedyaTravelProject/blob/main/Screenshot%202025-05-10%20233758.png)
 
