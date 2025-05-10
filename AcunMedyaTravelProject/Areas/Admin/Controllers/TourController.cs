@@ -6,7 +6,6 @@ using AcunMedyaTravelProject.Enums;
 namespace AcunMedyaTravelProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Route("Admin/[controller]/[action]")]
     public class TourController : Controller
     {
         private readonly AppDbContext _context;

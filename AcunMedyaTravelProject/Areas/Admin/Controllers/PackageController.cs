@@ -6,7 +6,6 @@ using AcunMedyaTravelProject.Entities;
 namespace AcunMedyaTravelProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Route("Admin/[controller]/[action]")]
     public class PackageController : Controller
     {
         private readonly AppDbContext _context;

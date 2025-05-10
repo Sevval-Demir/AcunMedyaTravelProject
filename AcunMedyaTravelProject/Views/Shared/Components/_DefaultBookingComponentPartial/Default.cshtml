@@ -6,16 +6,16 @@
                 <h5 class="section-booking-title pe-3">Rezervasyon</h5>
                 <h1 class="text-white mb-4">Online Rezervasyon</h1>
                 <p class="text-white mb-4">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
+                    Hayalinizdeki tatile sadece birkaç adım uzaktasınız. Online rezervasyon sistemi ile dilediğiniz tura kolayca kaydolun ve yerinizi hemen ayırtın.
                 </p>
                 <p class="text-white mb-4">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
+                    Uygun fiyatlar, esnek tarih seçenekleri ve profesyonel rehberlik hizmeti ile unutulmaz bir seyahat sizi bekliyor.
                 </p>
                 <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
             </div>
             <div class="col-lg-6">
-                <h1 class="text-white mb-3">Bir tura kaydolun</h1>
-                <p class="text-white mb-4">İlk seyatinizde %30'a varan indirimleri kaçırmayın.</p>
+                <h1 class="text-white mb-3">Tura Katılın</h1>
+                <p class="text-white mb-4">Yeni üyeliklerde ilk rezervasyona %30 indirim fırsatını kaçırmayın!</p>
                 <form method="post" asp-controller="Default" asp-action="MakeBooking">
                     <div class="row g-3">
                         <div class="col-md-6">
@@ -39,20 +39,20 @@
                         <div class="col-md-6">
                         <div class="form-floating" id="phone" data-target-input="nearest">
                             <input asp-for="Phone" type="text" class="form-control bg-white border-0" id="datetime" placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
-                            <label for="phonen">Telefon Numarası</label>
+                            <label for="phonen">Telefon</label>
                         </div>
                     </div>
                         <div class="col-md-6">
                             <div class="form-floating">
 
                                 @Html.DropDownListFor(x=>x.PackageId,(SelectList)ViewBag.Packages,"Paket Seçin",new {@class="form-select bg-white border-0"})
-                                <label for="select1">Destination</label>
+                                <label for="select1">Tur Paketi</label>
                             </div>
                         </div>
                         <div class="col-12">
                             <div class="form-floating">
                                 <textarea asp-for="Note" class="form-control bg-white border-0" placeholder="Special Request" id="message" style="height: 100px"></textarea>
-                                <label for="message">Special Request</label>
+                                <label for="message">Özel Not</label>
                             </div>
                         </div>
                         <div class="col-12">

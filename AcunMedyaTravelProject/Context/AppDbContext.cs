@@ -20,5 +20,6 @@ namespace AcunMedyaTravelProject.Context
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
         public DbSet<Tour> Tours { get; set; }
+        public DbSet<Footer> Footers { get; set; }
     }
 }

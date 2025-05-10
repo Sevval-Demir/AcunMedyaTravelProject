@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore;
 namespace AcunMedyaTravelProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Route("Admin/[controller]/[action]")]
     public class BookingController : Controller
     {
         private readonly AppDbContext _context;

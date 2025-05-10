@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace AcunMedyaTravelProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Route("Admin/[controller]/[action]")]
     public class AboutController : Controller
     {
         private readonly AppDbContext _context;

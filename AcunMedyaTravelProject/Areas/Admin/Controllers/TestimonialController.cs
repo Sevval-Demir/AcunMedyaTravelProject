@@ -5,7 +5,6 @@ using AcunMedyaTravelProject.Entities;
 namespace AcunMedyaTravelProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Route("Admin/[controller]/[action]")]
     public class TestimonialController : Controller
     {
         private readonly AppDbContext _context;
